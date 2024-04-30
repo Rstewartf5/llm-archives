@@ -23,3 +23,4 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 ### Evaluation for JOUR389W
 
 PUT YOUR EVALUATION HERE
+Well, it seems like the the process was able to successfully pull out the names, places, and organizations mentioned in the transcript. Extracting the names, places, and organizations would be beneficial for my news organization particularly if this was a project that spanded across time, in that it could provide insight into sources, organizations, etc. that they use. This is a great way of identifying if the organization needs to expand their reach in terms of sources. 
